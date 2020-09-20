@@ -32,7 +32,7 @@ let b=prompt ('Write number b=','');
 alert (min(a,b));
 ```
 ### Education & Work
-__University__: BNTU, Faculty of Information Technology and Robotics
+__University__: [BNTU] [8], Faculty of Information Technology and Robotics
 
 __Courses__: [Streamline][1] Pre-Intermediate & Intermediate; [QA Academy][2] Basics of Software Testing; [The Rolling Scopes School][3] JavaScript/Front-end (RS2020Q3)
 
@@ -48,3 +48,4 @@ Intermediate (B1)
 [5]: mailto:vonubat@gmail.com
 [6]: tg://resolve?domain=@Vonubat
 [7]: skype:homeanagar
+[8]: http://www.bntu.by/
