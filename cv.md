@@ -1,10 +1,12 @@
 ## Egor Tabunov
+Junior Frontend Developer
+Belarus, Minsk
 
 ### Contacts
-- __Email__: vonubat@gmail.com
 - __Telephone number__: +375-25-277-57-43
-- __Telegram__: @Vonubat
-- __Skype__: homeanagar
+- __Email__: [vonubat@gmail.com][5]
+- __Telegram__: [@Vonubat][6]
+- __Skype__: [homeanagar][7]
 - __GitHub__: https://github.com/Vonubat
 
 ### Summary
@@ -42,3 +44,6 @@ Intermediate (B1)
 [2]: https://qa-academy.by/
 [3]: https://rs.school/
 [4]: https://vec-tech.by/contacts/
+[5]: mailto:vonubat@gmail.com
+[6]: tg://resolve?domain=@Vonubat
+[7]: skype:homeanagar
