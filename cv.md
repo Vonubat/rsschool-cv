@@ -9,9 +9,10 @@
 
 ### Summary
 Age: 27
+
 Well-developed analytical and interpersonal skills, ability to deeply
 understand the project logic and processes in a short time. In my free
-time I enjoy travelling, cooking and gaming.
+time I enjoy travelling, cooking and gaming
 
 ### Skills
 HTML, CSS, JS, GIT, Google Docs
@@ -29,7 +30,9 @@ alert (min(a,b));
 ```
 ### Education & Work
 __University__: BNTU, Faculty of Information Technology and Robotics
+
 __Courses__: [Streamline][1] Pre-Intermediate & Intermediate; [QA Academy][2] Basics of Software Testing; [The Rolling Scopes School][3] JavaScript/Front-end (RS2020Q3)
+
 __Work experience__: [VECTOR OF TECHNOLOGIES][4] Project Manager - Automation department (04/2015 - Present)
 
 ### English
