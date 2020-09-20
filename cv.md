@@ -5,6 +5,7 @@
 - __Telephone number__: +375-25-277-57-43
 - __Telegram__: @Vonubat
 - __Skype__: homeanagar
+- __GitHub__: https://github.com/Vonubat
 
 ### Summary
 Age: 27
