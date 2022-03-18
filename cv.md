@@ -72,7 +72,7 @@ Projects
 Education
 ---
 * **BELARUSIAN NATIONAL TECHNICAL UNIVERSITY (2010-2016)**
-MEng. INFORMATION TECHNOLOGIES AND ROBOTICS FACULTY.
+MEng. INFORMATION TECHNOLOGIES AND ROBOTICS FACULTY
 Automation of Technological Processes and Production
 GPA: 8.5 out of 10
 * **QA ACADEMY (2018)**
@@ -90,3 +90,9 @@ Work experience
 
 - Engineer (04/2015 - 01/2017).  *7 years+ technical expertise in industrial equipment and processes: variable frequency drives, servo systems, machine controllers, industrial robots, sensor systems, machine vision solution and etc.*
 - Project manager. Sales department (01/2017 -03/2022). *5 years+ of work experience in project management: planning resources (budget & time-management), quality & satisfaction of customer, management of issues and risks, monitoring progress.*
+
+
+Languages
+---
+- Russian (native speaker)
+- English (B1)
