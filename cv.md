@@ -63,6 +63,12 @@ Code example
 ```
 
 
+Projects
+---
+- [tasks from learn.javascript.ru](https://github.com/Vonubat/learn.javascript.ru)
+- [rsschool-cv](https://github.com/Vonubat/rsschool-cv)
+
+
 Education
 ---
 * **BELARUSIAN NATIONAL TECHNICAL UNIVERSITY (2010-2016)**
