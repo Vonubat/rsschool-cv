@@ -72,9 +72,9 @@ Projects
 Education
 ---
 * **BELARUSIAN NATIONAL TECHNICAL UNIVERSITY (2010-2016)**
-MEng. INFORMATION TECHNOLOGIES AND ROBOTICS FACULTY
+INFORMATION TECHNOLOGIES AND ROBOTICS FACULTY
 Automation of Technological Processes and Production
-GPA: 8.5 out of 10
+MEng. GPA: 8.5 out of 10
 * **QA ACADEMY (2018)**
 Basics of Software Testing (Сertificate №1870)
 Game Testing (Сertificate №1911)
