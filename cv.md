@@ -66,7 +66,7 @@ Code example
 Projects
 ---
 - [tasks from learn.javascript.ru](https://github.com/Vonubat/learn.javascript.ru)
-- [rsschool-cv](https://github.com/Vonubat/rsschool-cv)
+- [rsschool-cv](https://vonubat.github.io/rsschool-cv/cv)
 
 
 Education
