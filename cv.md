@@ -71,14 +71,14 @@ Projects
 
 Education
 ---
-* **BELARUSIAN NATIONAL TECHNICAL UNIVERSITY (2010-2016)**
-INFORMATION TECHNOLOGIES AND ROBOTICS FACULTY
-Automation of Technological Processes and Production
+* **BELARUSIAN NATIONAL TECHNICAL UNIVERSITY (2010-2016)**<br>
+INFORMATION TECHNOLOGIES AND ROBOTICS FACULTY<br>
+Automation of Technological Processes and Production<br>
 MEng. GPA: 8.5 out of 10
-* **QA ACADEMY (2018)**
-Basics of Software Testing (Сertificate №1870)
+* **QA ACADEMY (2018)**<br>
+Basics of Software Testing (Сertificate №1870)<br>
 Game Testing (Сertificate №1911)
-* **STREAMLINE (2018)**
+* **STREAMLINE (2018)**<br>
 Pre-intermediate + intermediate; intensive courses
 * **RS School JavaScript/Front-end (2022Q1)**
 
