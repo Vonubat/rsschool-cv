@@ -27,3 +27,36 @@ Skills
 * Editors: VSCode, notepad++
 * Figma(for web development)
 * Windows OS, Linux(Ubuntu)
+
+
+Code example
+---
+*Set and decrease for counter:*
+```
+"use strict";
+
+    function makeCounter() {
+      let count = 0;
+
+      function counter() {
+        return count++;
+      }
+
+      counter.set = function (value) {
+        return count = value;
+      }
+
+      counter.decrease = () => count--;
+
+      return counter;
+    }
+    let func = makeCounter();
+
+
+    alert(func()); // 0
+    alert(func()); // 1
+    func.set(10); // set new value of counter
+    alert(func()); // 10
+    func.decrease(); // decrease value (-1)
+    alert(func()); // 10
+```
