@@ -7,6 +7,7 @@ Contact info
 ---
 - **Location:** Belarus, Minsk (willing to relocate)
 - **Phone:** +375-29-277-57-43
+- **Discord (nickname rs-school):** Egor Tabunov(@Vonubat)
 - **E-mail:** <vonubat@gmail.com>
 - **Telegram:** [Link](https://t.me/mortally_happy)
 - **GitHub:** [Link](https://github.com/Vonubat/)
@@ -60,3 +61,17 @@ Code example
     func.decrease(); // decrease value (-1)
     alert(func()); // 10
 ```
+
+
+Education
+---
+* **BELARUSIAN NATIONAL TECHNICAL UNIVERSITY**
+MEng. INFORMATION TECHNOLOGIES AND ROBOTICS FACULTY.
+Automation of Technological Processes and Production
+GPA: 8.5 out of 10
+* **QA ACADEMY**
+Basics of Software Testing (Сertificate №1870)
+Game Testing (Сertificate №1911)
+* ** STREAMLINE**
+Pre-intermediate + intermediate; intensive courses (during 2018)
+* ** RS School JavaScript/Front-end 2022Q1**
