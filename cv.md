@@ -16,7 +16,7 @@ Contact info
 
 About
 ---
-I'm 28 years old, my goal is to achieve all items of Frontend Roadmap (https://roadmap.sh/frontend). I love to solve tasks and to get satisfaction when it solved.  My core strengths are well-developed analytical and interpersonal skills, ability to deeply understand the project logic and processes in a short time. I want to get knowledge and skills that will be enough for employment in a company. Working in the company would be an excellent opportunity to continue improving skills, to find new friends, to work on interesting projects with fascinating people.
+I'm 28 years old, my goal is to achieve all items of [Frontend Roadmap](https://roadmap.sh/frontend). I love to solve tasks and to get satisfaction when it solved.  My core strengths are well-developed analytical and interpersonal skills, ability to deeply understand the project logic and processes in a short time. I want to get knowledge and skills that will be enough for employment in a company. Working in the company would be an excellent opportunity to continue improving skills, to find new friends, to work on interesting projects with fascinating people.
 
 
 Skills
@@ -79,7 +79,7 @@ MEng. GPA: 8.5 out of 10
 Basics of Software Testing (Сertificate №1870)<br>
 Game Testing (Сertificate №1911)
 * **STREAMLINE (2018)**<br>
-Pre-intermediate + intermediate; intensive courses
+Pre-intermediate + intermediate; intensive english courses
 * **RS School JavaScript/Front-end (2022Q1)**
 
 
