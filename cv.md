@@ -1,6 +1,6 @@
 Tabunov Egor
 ---
-######Desired position: Junior Front-end Developer
+*Desired position: Junior Front-end Developer*
 
 
 Contact info
