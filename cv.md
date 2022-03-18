@@ -65,13 +65,22 @@ Code example
 
 Education
 ---
-* **BELARUSIAN NATIONAL TECHNICAL UNIVERSITY**
+* **BELARUSIAN NATIONAL TECHNICAL UNIVERSITY (2010-2016)**
 MEng. INFORMATION TECHNOLOGIES AND ROBOTICS FACULTY.
 Automation of Technological Processes and Production
 GPA: 8.5 out of 10
-* **QA ACADEMY**
+* **QA ACADEMY (2018)**
 Basics of Software Testing (Сertificate №1870)
 Game Testing (Сertificate №1911)
-* ** STREAMLINE**
-Pre-intermediate + intermediate; intensive courses (during 2018)
-* ** RS School JavaScript/Front-end 2022Q1**
+* **STREAMLINE (2018)**
+Pre-intermediate + intermediate; intensive courses
+* **RS School JavaScript/Front-end (2022Q1)**
+
+
+Work experience
+---
+
+**VECTOR OF TECHNOLOGIES (2015-2022)**
+
+- Engineer (04/2015 - 01/2017).  *7 years+ technical expertise in industrial equipment and processes: variable frequency drives, servo systems, machine controllers, industrial robots, sensor systems, machine vision solution and etc.*
+- Project manager. Sales department (01/2017 -03/2022). *5 years+ of work experience in project management: planning resources (budget & time-management), quality & satisfaction of customer, management of issues and risks, monitoring progress.*
