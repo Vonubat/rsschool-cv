@@ -69,7 +69,7 @@ pre {
   border-style: solid;
   border-width: 5px;
   border-color: rgb(114, 114, 114);
-  padding: 5px;
+  padding: 10px;
   box-shadow: 0 0 30px rgba(0,0,0,0.5);
 }
 
@@ -77,5 +77,57 @@ pre {
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  margin: 20px;
+ }
+
+ .phone {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
+ }
+
+ .discord {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
+ }
+
+ .email {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
+ }
+
+ .telegram {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
+ }
+
+ .github {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
+
+ }
+
+ .linkedin {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
+ }
+
+ span {
+   margin-left: 10px;
+ }
+
+ .about {
+  margin-right: 20px;
 
  }
