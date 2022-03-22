@@ -82,9 +82,9 @@ pre {
 
  .map {
   display: flex;
-justify-content: flex-start;
-align-items: center;
-margin: 20px;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
 }
 
  .phone {
