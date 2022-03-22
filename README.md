@@ -1,1 +1,1 @@
-https://Vonubat.github.io/rsschool-cv/cv
+https://Vonubat.github.io/rsschool-cv/

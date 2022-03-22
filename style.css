@@ -1,0 +1,140 @@
+.container {
+  max-width: 1024px;
+  box-shadow: 0 0 30px rgba(0,0,0,0.5);
+  margin: 0 auto;
+  height: 1500px;
+  display: flex;
+  font-family: 'Roboto', sans-serif;
+  border-radius: 10px;
+}
+
+.left-side {
+  width: 40%;
+  height: 1500px;
+  background-color: #F3D060;
+  border-radius: 10px 0px 0px 10px;
+}
+
+.right-side {
+  width: 60%;
+  height: 1500px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.picture {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  flex-shrink: 3;
+}
+
+.img {
+  border-radius: 50%;
+  width: 40%;
+  height: 40%;
+  }
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-weight: 900;
+  margin: 10px 0px 0px 20px;
+}
+
+h2 {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-weight: 700;
+  margin: 10px 0px 0px 20px
+}
+
+h5 {
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+  font-weight: 400;
+  font-style: italic;
+  margin: 0px 0px 0px 20px;
+}
+
+p {
+  margin: 10px 0px 0px 20px;
+}
+
+pre {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  margin: 20px;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(114, 114, 114);
+  padding: 10px;
+  box-shadow: 0 0 30px rgba(0,0,0,0.5);
+}
+
+.location {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
+ }
+
+ .map {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
+}
+
+ .phone {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
+ }
+
+ .discord {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
+ }
+
+ .email {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
+ }
+
+ .telegram {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
+ }
+
+ .github {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
+
+ }
+
+ .linkedin {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
+ }
+
+ span {
+   margin-left: 10px;
+ }
+
+ .about {
+  margin-right: 20px;
+
+ }

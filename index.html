@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    rel="stylesheet">
+  <link rel="icon" type="image/cv" href="cv.png">
+  <title>CV#2. HTML, CSS & Git Basics</title>
+</head>
+
+<body>
+  <div class="container">
+    <div class="left-side">
+      <div class="picture">
+        <img src="img.jpg" alt="Photo" class="img">
+      </div>
+      <div class="introduction">
+        <h1>Tabunov Egor</h1>
+        <h5>Desired position: Junior Front-end Developer</h5>
+      </div>
+      <div class="contact-info">
+        <h2>[Contact info]</h2>
+
+        <span class="location">
+          <img src="/rs_school/rsschool-cv/location.png" alt="Location" title="Location" class="location-img">
+          <span>
+            Belarus, Minsk (willing to relocate)
+          </span>
+        </span>
+
+        <span class="map">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d301013.62068468437!2d27.31319216987381!3d53.88431382303025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbcfd35b1e6ad3%3A0xb61b853ddb570d9!2sMinsk!5e0!3m2!1sen!2sby!4v1647959965915!5m2!1sen!2sby"
+            width="369" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </span>
+
+        <span class="phone">
+          <img src="/rs_school/rsschool-cv/phone-call.png" alt="Phone" title="Phone" class="phone-img">
+          <span>
+            <a href="tel:+375292775743">+375-29-277-57-43</a>
+          </span>
+        </span>
+
+        <span class="discord">
+          <img src="/rs_school/rsschool-cv/discord.png" alt="Discord" title="Discord" class="discord-img">
+          <span>
+            <a href="https://discord.gg/JzMpZmDs">Egor Tabunov (@Vonubat)</a>
+          </span>
+        </span>
+
+        <span class="email">
+          <img src="/rs_school/rsschool-cv/email.png" alt="E-mail" title="E-mail" class="email-img">
+          <span>
+            <a href="mailto:vonubat@gmail.com">vonubat@gmail.com</a></span>
+        </span>
+
+        <span class="telegram">
+          <img src="/rs_school/rsschool-cv/telegram.png" alt="Telegram" title="Telegram" class="telegram-img">
+          <span>
+            <a href="https://t.me/mortally_happy">https://t.me/mortally_happy</a>
+          </span>
+        </span>
+
+        <span class="github">
+          <img src="/rs_school/rsschool-cv/github.png" alt="Github" title="Github" class="github-img">
+          <span>
+            <a href="https://github.com/Vonubat/">https://github.com/Vonubat/</a>
+          </span>
+        </span>
+
+        <span class="linkedin">
+          <img src="/rs_school/rsschool-cv/linkedin.png" alt="LinkedIn" title="LinkedIn" class="linkedin-img">
+          <span>
+            <a href="https://www.linkedin.com/in/egor-tabunov/">https://www.linkedin.com/in/egor-tabunov/</a>
+          </span>
+        </span>
+
+      </div>
+      <div class="about">
+        <h2>[About]</h2>
+        <p>I'm 28 years old, my goal is to achieve all items of <a href="https://roadmap.sh/frontend">Frontend
+            Roadmap</a>. I love
+          to
+          solve tasks and to get satisfaction when it solved. My core strengths are well-developed analytical and
+          interpersonal skills, ability to deeply understand the project logic and processes in a short time. I want to
+          get knowledge and skills that will be enough for employment in a company. Working in the company would be an
+          excellent opportunity to continue improving skills, to find new friends, to work on interesting projects with
+          fascinating people.
+        </p>
+      </div>
+
+
+    </div>
+    <div class="right-side">
+      <div class="skills">
+        <h2>[Skills]</h2>
+        <ul>
+          <li>HTML</li>
+          <li>CSS (Fundamentals)</li>
+          <li>JS (Fundamentals, Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM)</li>
+          <li>Version control: Git (remote service GitHub)</li>
+          <li>Editors: VSCode, notepad++</li>
+          <li>Figma (for web development)</li>
+          <li>Windows OS, Linux(Ubuntu)</li>
+        </ul>
+      </div>
+      <div class="code-example">
+        <h2>[Code example]</h2>
+
+        <p style="font-style: italic;">Set and decrease for counter:</p>
+        <pre>
+    "use strict";
+
+    function makeCounter() {
+    let count = 0;
+
+    function counter() {
+    return count++;
+    }
+
+    counter.set = function (value) {
+    return count = value;
+    }
+
+    counter.decrease = () => count--;
+
+    return counter;
+    }
+    let func = makeCounter();
+
+
+    alert(func()); // 0
+    alert(func()); // 1
+    func.set(10); // set new value of counter
+    alert(func()); // 10
+    func.decrease(); // decrease value (-1)
+    alert(func()); // 10 </pre>
+      </div>
+
+      <div class="projects">
+        <h2>[Projects]</h2>
+        <ul>
+          <li> <a href="https://github.com/Vonubat/learn.javascript.ru">tasks from learn.javascript.ru</a></li>
+          <li> <a href="https://vonubat.github.io/rsschool-cv/cv">rsschool-cv</a></li>
+        </ul>
+      </div>
+
+      <div class="education">
+        <h2>[Education]</h2>
+
+        <ul>
+          <li><b><a href="https://bntu.by/">BELARUSIAN NATIONAL TECHNICAL UNIVERSITY (2010-2016)</a></b><br>
+            INFORMATION TECHNOLOGIES AND ROBOTICS FACULTY<br>
+            Automation of Technological Processes and Production<br>
+            MEng. GPA: 8.5 out of 10</li>
+          <li><b><a href="https://qa-academy.by/">QA ACADEMY (2018)</a></b><br>
+            Basics of Software Testing (Сertificate №1870)<br>
+            Game Testing (Сertificate №1911)</li>
+          <li><b><a href="https://str.by/">STREAMLINE (2018)</a></b><br>
+            Pre-intermediate + intermediate; intensive english courses</li>
+          <li><b><a href="https://rs.school/">School JavaScript/Front-end (2022Q1)</a></b></li>
+        </ul>
+      </div>
+
+      <div class="work-experience">
+        <h2>[Work experience]</h2>
+
+        <p><b><a href="https://vec-tech.by/">VECTOR OF TECHNOLOGIES (2015-2022)</a></b></p>
+
+        <ul>
+          <li>Engineer (04/2015 - 01/2017). <i>7 years+ technical expertise in industrial equipment and
+              processes:,variable,frequency drives, servo systems, machine controllers, industrial robots, sensor
+              systems, machine vision, and etc.</i></li>
+          <li>Project manager. Sales department (01/2017 -03/2022). <i>5 years+ of work experience in project
+              management:
+              planning
+              resources (budget & time-management), quality & satisfaction of customer, management of issues and risks,
+              monitoring
+              progress.</i></li>
+        </ul>
+      </div>
+
+      <div class="languages">
+        <h2>[Languages]</h2>
+        <ul>
+          <li>Russian (native speaker)</li>
+          <li>English (B1)</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
