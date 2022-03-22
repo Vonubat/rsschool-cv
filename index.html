@@ -5,143 +5,150 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    rel="stylesheet">
   <title>CV#2. HTML, CSS & Git Basics</title>
 </head>
 
 <body>
+  <div class="container">
+    <div class="left-side">
+      <div class="picture">
+        <img src="img.jpg" alt="Photo" class="img">
+      </div>
+      <div class="introduction">
+        <h1>Tabunov Egor</h1>
+        <h5>Desired position: Junior Front-end Developer</h5>
+      </div>
+      <div class="contact-info">
+        <h2>Contact info</h2>
+        <ul>
+          <li>Location: Belarus, Minsk (willing to relocate)</li>
+          <li>Phone: +375-29-277-57-43</li>
+          <li>Discord (nickname rs-school): Egor Tabunov(@Vonubat)</li>
+          <li>E-mail: vonubat@gmail.com </li>
+          <li>Telegram: [Link](https://t.me/mortally_happy)</li>
+          <li>GitHub: [Link](https://github.com/Vonubat/)</li>
+          <li>LinkedIn: [Link](https://www.linkedin.com/in/egor-tabunov/)</li>
+        </ul>
+      </div>
+      <div class="about">
+        <h2>About</h2>
+        <p>I'm 28 years old, my goal is to achieve all items of <a href="https://roadmap.sh/frontend">Frontend
+            Roadmap</a>. I love
+          to
+          solve tasks and to get satisfaction when it solved. My core strengths are well-developed analytical and
+          interpersonal skills, ability to deeply understand the project logic and processes in a short time. I want to
+          get knowledge and skills that will be enough for employment in a company. Working in the company would be an
+          excellent opportunity to continue improving skills, to find new friends, to work on interesting projects with
+          fascinating people.
+        </p>
+      </div>
 
-  <div class="introduction">
-    <h1>Tabunov Egor</h1>
-    <h5>Desired position: Junior Front-end Developer</h5>
+
+    </div>
+    <div class="right-side">
+      <div class="skills">
+        <h2>Skills</h2>
+        <ul>
+          <li>HTML</li>
+          <li>CSS (Fundamentals)</li>
+          <li>JS (Fundamentals, Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM)</li>
+          <li>Version control: Git (remote service GitHub)</li>
+          <li>Editors: VSCode, notepad++</li>
+          <li>Figma (for web development)</li>
+          <li>Windows OS, Linux(Ubuntu)</li>
+        </ul>
+      </div>
+      <div class="code-example">
+        <h2>Code example</h2>
+
+        <p style="font-style: italic;">Set and decrease for counter:</p>
+        <pre>
+    "use strict";
+
+    function makeCounter() {
+    let count = 0;
+
+    function counter() {
+    return count++;
+    }
+
+    counter.set = function (value) {
+    return count = value;
+    }
+
+    counter.decrease = () => count--;
+
+    return counter;
+    }
+    let func = makeCounter();
+
+
+    alert(func()); // 0
+    alert(func()); // 1
+    func.set(10); // set new value of counter
+    alert(func()); // 10
+    func.decrease(); // decrease value (-1)
+    alert(func()); // 10 </pre>
+      </div>
+
+      <div class="projects">
+        <h2>Projects</h2>
+        <ul>
+          <li> <a href="https://github.com/Vonubat/learn.javascript.ru">tasks from learn.javascript.ru</a></li>
+          <li> <a href="https://vonubat.github.io/rsschool-cv/cv">rsschool-cv</a></li>
+        </ul>
+      </div>
+
+      <div class="education">
+        <h2>Education</h2>
+
+        <ul>
+          <li><b>BELARUSIAN NATIONAL TECHNICAL UNIVERSITY (2010-2016)</b><br>
+            INFORMATION TECHNOLOGIES AND ROBOTICS FACULTY<br>
+            Automation of Technological Processes and Production<br>
+            MEng. GPA: 8.5 out of 10</li>
+          <li><b>QA ACADEMY (2018)</b><br>
+            Basics of Software Testing (Сertificate №1870)<br>
+            Game Testing (Сertificate №1911)</li>
+          <li><b>STREAMLINE (2018</b>)<br>
+            Pre-intermediate + intermediate; intensive english courses</li>
+          <li><b>School JavaScript/Front-end (2022Q1)</b></li>
+        </ul>
+      </div>
+
+      <div class="work-experience">
+        <h2>Work experience</h2>
+
+        <p><b><a href="https://vec-tech.by/">VECTOR OF TECHNOLOGIES (2015-2022)</a></b></p>
+
+        <ul>
+          <li>Engineer (04/2015 - 01/2017). <i>7 years+ technical expertise in industrial equipment and
+              processes:,variable,frequency drives, servo systems, machine controllers, industrial robots, sensor
+              systems, machine vision, and etc.</i></li>
+          <li>Project manager. Sales department (01/2017 -03/2022). <i>5 years+ of work experience in project
+              management:
+              planning
+              resources (budget & time-management), quality & satisfaction of customer, management of issues and risks,
+              monitoring
+              progress.</i></li>
+        </ul>
+      </div>
+
+      <div class="languages">
+        <h2>Languages</h2>
+        <ul>
+          <li>Russian (native speaker)</li>
+          <li>English (B1)</li>
+        </ul>
+      </div>
+    </div>
   </div>
-
-  <div class="contact-info">
-    <h2>Contact info</h2>
-    <ul>
-      <li>Location: Belarus, Minsk (willing to relocate)</li>
-      <li>Phone: +375-29-277-57-43</li>
-      <li>Discord (nickname rs-school): Egor Tabunov(@Vonubat)</li>
-      <li>E-mail: vonubat@gmail.com </li>
-      <li>Telegram: [Link](https://t.me/mortally_happy)</li>
-      <li>GitHub: [Link](https://github.com/Vonubat/)</li>
-      <li>LinkedIn: [Link](https://www.linkedin.com/in/egor-tabunov/)</li>
-    </ul>
-  </div>
-
-  <div class="about">
-    <h2>About</h2>
-
-    I'm 28 years old, my goal is to achieve all items of [Frontend Roadmap](https://roadmap.sh/frontend). I love to
-    solve tasks and to get satisfaction when it solved. My core strengths are well-developed analytical and
-    interpersonal skills, ability to deeply understand the project logic and processes in a short time. I want to get
-    knowledge and skills that will be enough for employment in a company. Working in the company would be an excellent
-    opportunity to continue improving skills, to find new friends, to work on interesting projects with fascinating
-    people.
-  </div>
-
-  <div class="skills">
-    <h2>Skills</h2>
-    <ul>
-      <li>HTML</li>
-      <li>CSS (Fundamentals)</li>
-      <li>JS (Fundamentals, Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM)</li>
-      <li>Version control: Git (remote service GitHub)</li>
-      <li>Editors: VSCode, notepad++</li>
-      <li>Figma (for web development)</li>
-      <li>Windows OS, Linux(Ubuntu)</li>
-    </ul>
-  </div>
-
-
-
-  <div class="code-example">
-    <h2>Code example</h2>
-
-    *Set and decrease for counter:*
-    <pre>
-  "use strict";
-
-  function makeCounter() {
-  let count = 0;
-
-  function counter() {
-  return count++;
-  }
-
-  counter.set = function (value) {
-  return count = value;
-  }
-
-  counter.decrease = () => count--;
-
-  return counter;
-  }
-  let func = makeCounter();
-
-
-  alert(func()); // 0
-  alert(func()); // 1
-  func.set(10); // set new value of counter
-  alert(func()); // 10
-  func.decrease(); // decrease value (-1)
-  alert(func()); // 10
-</pre>
-  </div>
-
-  <div class="projects">
-    <h2>Projects</h2>
-    <ul>
-      <li>[tasks from learn.javascript.ru](https://github.com/Vonubat/learn.javascript.ru)</li>
-      <li>[rsschool-cv](https://vonubat.github.io/rsschool-cv/cv)</li>
-    </ul>
-  </div>
-
-  <div class="education">
-    <h2>Education</h2>
-
-    <ul>
-      <li>BELARUSIAN NATIONAL TECHNICAL UNIVERSITY (2010-2016)<br>
-        INFORMATION TECHNOLOGIES AND ROBOTICS FACULTY<br>
-        Automation of Technological Processes and Production<br>
-        MEng. GPA: 8.5 out of 10</li>
-      <li>QA ACADEMY (2018)**<br>
-        Basics of Software Testing (Сertificate №1870)<br>
-        Game Testing (Сertificate №1911)</li>
-      <li>STREAMLINE (2018)**<br>
-        Pre-intermediate + intermediate; intensive english courses</li>
-      <li>RS School JavaScript/Front-end (2022Q1)</li>
-    </ul>
-  </div>
-
-  <div class="work-experience">
-    <h2>Work experience</h2>
-
-    <h3>VECTOR OF TECHNOLOGIES (2015-2022)</h3>
-
-    <ul>
-      <li>Engineer (04/2015 - 01/2017). *7 years+ technical expertise in industrial equipment and processes: variable
-        frequency drives, servo systems, machine controllers, industrial robots, sensor systems, machine vision solution
-        and
-        etc.*</li>
-      <li>Project manager. Sales department (01/2017 -03/2022). *5 years+ of work experience in project management:
-        planning
-        resources (budget & time-management), quality & satisfaction of customer, management of issues and risks,
-        monitoring
-        progress.*</li>
-    </ul>
-  </div>
-
-  <div class="languages">
-    <h2>Languages</h2>
-    <ul>
-      <li>Russian (native speaker)</li>
-      <li>English (B1)</li>
-    </ul>
-  </div>
-
-
-
-
 </body>
 
 </html>
